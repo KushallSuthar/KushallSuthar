@@ -1,4 +1,5 @@
-<h1 align="center">Hi folks! I'm Kushal Suthar</h1>
+<img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/70761-1zoroq/download"/><h1 align="Left">Hi folks! I'm Kushal Suthar</h1>
+<h3 align="left">👨🏼‍💻 Problem Solver.</h3>
 <h3 align="center">A problem-solving enthusiast and full-stack developer extraordinaire.</h3>
 
 - 🌱 I’m currently learning **React, BootStrap , Tailwind**
