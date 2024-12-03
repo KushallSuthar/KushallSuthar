@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **khappy7727@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO(https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO)
 
 - ⚡ Fun fact **💻💪 Code, lift, game, repeat—that’s the cycle!**
 
