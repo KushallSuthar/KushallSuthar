@@ -1,12 +1,13 @@
 <img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/70761-1zoroq/download"/><h1 align="Left">Hi folks! I'm Kushal Suthar</h1>
 <h3 align="left">👨🏼‍💻 Problem Solver.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reaperrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="reaperrrrr" /> </p>
 <h3 align="left">A problem-solving enthusiast and full-stack developer extraordinaire.</h3>
 
 - 🌱 I’m currently learning **React, BootStrap , Tailwind**
 
 - 📫 How to reach me **khappy7727@gmail.com**
 
-- 📄 Know about my experiences [Resume][https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO](https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO(https://drive.google.com/drive/u/0/folders/1u6gpPgxpBZajvzR4RBvRPXdPtEmnXmXO)
 
 - ⚡ Fun fact **💻💪 Code, lift, game, repeat—that’s the cycle!**
 
