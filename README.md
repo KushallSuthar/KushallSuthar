@@ -1,7 +1,7 @@
 <img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/70761-1zoroq/download"/><h1 align="Left">Hi folks! I'm Kushal Suthar</h1>
 <h3 align="left">👨🏼‍💻 Problem Solver.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KushallSuthar&label=Profile%20views&color=0e75b6&style=flat" alt="reaperrrrr" /> </p>
-<h3 align="left">Full-stack developer with a love for logic, clean code, and Linux wizardry [RHCSA](https://www.credly.com/badges/cadd402f-fb57-41d7-9198-c1e37170ad5d/public_url).</h3>
+<h3 align="left">Full-stack developer with a love for logic, clean code, and Linux wizardry <a href="https://www.credly.com/badges/cadd402f-fb57-41d7-9198-c1e37170ad5d/public_url" target="_blank">RHCSA</a>.</h3>
 
 - 🌱 I’m currently learning **React, BootStrap , Tailwind**
 
